@@ -1,0 +1,3 @@
+[submodule "react-graphql-typescript"]
+	path = react-graphql-typescript
+	url = https://github.com/tomtomdurrant/react-graphql-typescript.git
